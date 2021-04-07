@@ -143,4 +143,4 @@ If your RTutor package is missing or several packages are missing, just rerun th
 
 ## 5.4 Error `figure margins too large`
 
-The error message "figure margins too large" can occur when you show any plot in RStudio when your "Plots" pane is too small. Increase the size of the plot pane and then it should work. See also [here for screenshots](https://stackoverflow.com/questions/23050928/error-in-plot-new-figure-margins-too-large-scatter-plot/23050985#23050985):
+The error message "figure margins too large" can occur when you show any plot in RStudio when your "Plots" pane is too small. Increase the size of the plot pane and then it should work. See also [here for screenshots](https://stackoverflow.com/questions/23050928/error-in-plot-new-figure-margins-too-large-scatter-plot/23050985#23050985).
